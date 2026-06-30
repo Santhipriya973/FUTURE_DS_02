@@ -117,12 +117,9 @@ FUTURE_DS_02
 
 ## Dashboard Preview
 
-(Add your dashboard screenshot here)
 
-Example:
 
-![Dashboard](dashboard.png)
-
+![alt txt](churn1.png)
 ---
 
 ## Learning Outcomes
